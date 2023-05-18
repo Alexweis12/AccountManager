@@ -1,0 +1,10 @@
+C:\Users\Alex\Desktop\MY PORTFOLIO\Account Manager\bin\Debug\Account Manager.exe.config
+C:\Users\Alex\Desktop\MY PORTFOLIO\Account Manager\bin\Debug\Account Manager.exe
+C:\Users\Alex\Desktop\MY PORTFOLIO\Account Manager\bin\Debug\Account Manager.pdb
+C:\Users\Alex\Desktop\MY PORTFOLIO\Account Manager\obj\Debug\Account Manager.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\MY PORTFOLIO\Account Manager\obj\Debug\Account_Manager.Form1.resources
+C:\Users\Alex\Desktop\MY PORTFOLIO\Account Manager\obj\Debug\Account_Manager.Properties.Resources.resources
+C:\Users\Alex\Desktop\MY PORTFOLIO\Account Manager\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\MY PORTFOLIO\Account Manager\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\MY PORTFOLIO\Account Manager\obj\Debug\Account Manager.exe
+C:\Users\Alex\Desktop\MY PORTFOLIO\Account Manager\obj\Debug\Account Manager.pdb
